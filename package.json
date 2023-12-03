@@ -1,0 +1,27 @@
+{
+  "name": "3d-book",
+  "version": "1.0.0",
+  "description": "Three dimentional book",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reginz/3d-book.git"
+  },
+  "keywords": [
+    "book",
+    "three.js",
+    "3d"
+  ],
+  "author": "Zeynep Evecen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reginz/3d-book/issues"
+  },
+  "homepage": "https://github.com/reginz/3d-book#readme",
+  "dependencies": {
+    "three": "^0.159.0"
+  }
+}
